@@ -12,9 +12,13 @@ that allows classification of the data using the values of Insufficient Weight, 
 Features' Details:
 
 Gender: Gender
+
 Age: Age
+
 Height : in metres
+
 Weight : in kgs
+
 family_history : Has a family member suffered or suffers from overweight?
 
 FAVC : Do you eat high caloric food frequently?
