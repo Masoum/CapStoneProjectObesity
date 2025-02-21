@@ -15,7 +15,9 @@ Age: Age
 Height : in metres
 Weight : in kgs
 family_history : Has a family member suffered or suffers from overweight?
+
 FAVC : Do you eat high caloric food frequently?
+
 FCVC : Do you usually eat vegetables in your meals?
 NCP : How many main meals do you have daily?
 CAEC : Do you eat any food between meals?
